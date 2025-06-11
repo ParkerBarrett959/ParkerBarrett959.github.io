@@ -5,7 +5,7 @@ title: Home
 
 # Welcome
 
-I'm a software and algorithms engineer passionate about systems, optimization, and clean code.
+Software engineer with a strong mathematical background, building high-performance estimation and sensor fusion systems for robotics and autonomous platforms.
 
 👉 [About Me](about)
 👉 [Projects](projects)
