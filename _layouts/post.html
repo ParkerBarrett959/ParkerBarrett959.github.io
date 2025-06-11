@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>{{ '{{' }} page.title {{ '}}' }}</title>
+  <link rel="stylesheet" href="https://unpkg.com/mvp.css">
+</head>
+<body>
+  <header>
+    <h1><a href="/">Your Name</a></h1>
+  </header>
+  <main>
+    <article>
+      <h2>{{ '{{' }} page.title {{ '}}' }}</h2>
+      <p><em>{{ '{{' }} page.date | date: "%B %d, %Y" {{ '}}' }}</em></p>
+      {{ '{{' }} content {{ '}}' }}
+    </article>
+    <footer>
+      <p><a href="/blog">← Back to Blog</a></p>
+    </footer>
+  </main>
+</body>
+</html>
