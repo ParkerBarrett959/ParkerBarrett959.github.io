@@ -5,10 +5,12 @@ title: Projects
 
 # Projects
 
-### 🔧 Algorithm Visualizer
-A tool to visualize graph algorithms using D3.js. [GitHub](https://github.com/your-username/algovis)
+### 🚀 NavFuse  
+A robust C++ library for navigation and sensor fusion, designed for real-time applications in robotics and autonomous systems.  
+🔗 [View on GitHub](https://github.com/ParkerBarrett959/NavFuse)
 
-### ⚙️ Compiler from Scratch
-A basic compiler for a toy language with parsing and IR generation.
+---
 
-... more coming soon!
+### 📉 Nonlinear Least Squares  
+A lightweight C++ solver for nonlinear least squares problems, featuring multiple optimization methods including gradient descent, Gauss-Newton, and Levenberg-Marquardt.  
+🔗 [View on GitHub](https://github.com/ParkerBarrett959/NonlinearLeastSquares)
