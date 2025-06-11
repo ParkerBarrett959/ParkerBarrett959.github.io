@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="https://unpkg.com/mvp.css">
+  </head>
+  <body>
+    <header>
+      <h1><a href="/">Your Name</a></h1>
+    </header>
+    <main>
+      {{ content }}
+    </main>
+    <footer>
+      <p>© {{ "now" | date: "%Y" }} Your Name. Built with Jekyll.</p>
+    </footer>
+  </body>
+</html>
