@@ -1,4 +1,4 @@
-remote_theme: "mmistakes/minimal-mistakes@latest"
+remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -13,7 +13,6 @@ author:
   name: "Parker Barrett"
   email: "parkerbarrett1302@gmail.com"
   url: "https://github.com/ParkerBarrett959"
-  avatar: "/assets/images/avatar.jpg"
 social_links:
   - { platform: "github", user_url: "https://github.com/ParkerBarrett959" }
   - { platform: "linkedin", user_url: "https://www.linkedin.com/in/parker-barrett-28360a161" }
