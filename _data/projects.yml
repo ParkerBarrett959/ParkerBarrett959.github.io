@@ -1,0 +1,10 @@
+- name: NavFuse
+  icon: 🚀
+  description: A robust C++ library for navigation and sensor fusion, designed for real-time applications in robotics and autonomous systems.
+  github: https://github.com/ParkerBarrett959/NavFuse
+
+- name: Nonlinear Least Squares
+  icon: 📉
+  description: A lightweight C++ solver for nonlinear least squares problems, featuring multiple optimization methods including gradient descent, Gauss-Newton, and Levenberg-Marquardt.
+  github: https://github.com/ParkerBarrett959/NonlinearLeastSquares
+
