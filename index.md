@@ -9,4 +9,5 @@ Software engineer with a strong mathematical background, building high-performan
 
 👉 [About Me](about)
 👉 [Projects](projects)
-👉 [GitHub](https://github.com/your-username)
+👉 [Blog](blog)
+👉 [GitHub](https://github.com/ParkerBarrett959)
